@@ -6,3 +6,5 @@
 - 🌱 Currently learning web development and C#
 - 🌐 Exploring 3D modeling in Blender
 - 📧 Email: patricija.katinaite@gmail.com
+
+<img src="cat_coding.gif" alt="" width="200" align="right">
