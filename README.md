@@ -1,4 +1,4 @@
-# Hi, I'm Patricija! 👋
+# Hi, I'm Patricija Katinaite! 👋
 
 - 📚 2nd year Software Engineering student at Vilnius University
 - 💻 Passionate about software development and web design
