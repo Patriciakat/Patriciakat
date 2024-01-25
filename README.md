@@ -1,4 +1,3 @@
-<div style="display: flex; justify-content: space-between;">
 # Hi, I'm Patricija! 👋
 
 - 📚 2nd year Software Engineering student at Vilnius University
@@ -8,5 +7,4 @@
 - 🌐 Exploring 3D modeling in Blender
 - 📧 Email: patricija.katinaite@gmail.com
 
-<img src="cat_coding.gif" alt="" width="300">
-</div>
+<img src="cat_coding.gif" alt="" width="300" align="right">
